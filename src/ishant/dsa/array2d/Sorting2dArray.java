@@ -43,7 +43,7 @@ public class Sorting2dArray {
         }
 
         BinarySearch2dArray search=new BinarySearch2dArray();
-        System.out.println(search.binarySearch(matrix,9));
+       System.out.println("Data Found : "+search.SortedMatrixWithBinarySearch(matrix,10));
 
 
     }
