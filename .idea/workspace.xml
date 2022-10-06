@@ -1,0 +1,818 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="848a5268-02e2-4ff6-bfe3-c0bc9be55c2f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dsaOnline.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ishant/dsa/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ishant/dsa/array/learn/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ishant/dsa/array/learn/CreateArrayDivisible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ishant/dsa/array/learn/Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ishant/dsa/array/learn/findMaximum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ishant/dsa/array/pattren/pattren1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ishant/dsa/array2d/BinarySearch2dArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ishant/dsa/array2d/Creation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ishant/dsa/array2d/Sorting2dArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ishant/dsa/assisgnment/MedianInTwoShortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ishant/dsa/assisgnment/TrappingRainWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ishant/dsa/integerQuestion/AddTwoBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ishant/dsa/learning/IshantUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ishant/dsa/learning/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ishant/dsa/linklist/learning/LearnLinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ishant/dsa/memory/MemoryManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ishant/dsa/string/CountChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ishant/dsa/string/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ishant/dsa/string/SplitArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ishant/dsa/string/StringManipulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ishant/dsa/string/pattern/Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ishant/dsa/string/pattern/pattern1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/ishant/dsa/assisgnment/ArraySmax.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/ishant/dsa/assisgnment/ArraySmax.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/ishant/dsa/assisgnment/Palindrom.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/ishant/dsa/assisgnment/Palindrom.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/ishant/dsa/integerQuestion/Factorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/ishant/dsa/integerQuestion/Factorial.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/ishant/dsa/map/imp/LongestSubArrayOfSumDivisibleByK.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/ishant/dsa/map/imp/LongestSubArrayOfSumDivisibleByK.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/ishant/dsa/string/StringFunctions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/ishant/dsa/string/StringFunctions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/ishant/dsa/string/StringInterview2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/ishant/dsa/string/StringInterview2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/ishant/dsa/string/StringInterviewPart1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/ishant/dsa/string/StringInterviewPart1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/ishant/dsa/string/StringPart1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/ishant/dsa/string/StringPart1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/ishant/dsa/string/imp/InterleavingString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/ishant/dsa/string/imp/InterleavingString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ishant/dsa/array/ArrayClassPart1.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ishant/dsa/assisgnment/ArraySmax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ishant/dsa/assisgnment/ArraySmax.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ishant/dsa/array/learn/Array.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="567">
+              <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#insert#0;class#Array#0" />
+                <element signature="method#printDelta#0;class#Array#0" />
+                <element signature="method#insert#1;class#Array#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ishant/dsa/array2d/Creation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ishant/dsa/array2d/Sorting2dArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="45" column="58" selection-start-line="45" selection-start-column="58" selection-end-line="45" selection-end-column="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ishant/dsa/array2d/BinarySearch2dArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="32" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/ishant/jai.java" />
+        <option value="$PROJECT_DIR$/src/ishant/Ishant.kt" />
+        <option value="$PROJECT_DIR$/src/ishant/jai.kt" />
+        <option value="$PROJECT_DIR$/src/ishant/Components.kt" />
+        <option value="$PROJECT_DIR$/src/ishant/part1/Recursion.java" />
+        <option value="$PROJECT_DIR$/src/ishant/dsa/array/pattren/pattren1.java" />
+        <option value="$PROJECT_DIR$/src/ishant/dsa/string/Pattren.java" />
+        <option value="$PROJECT_DIR$/src/ishant/dsa/string/Pattern.java" />
+        <option value="$PROJECT_DIR$/src/ishant/dsa/integerQuestion/AddTwoBinary.java" />
+        <option value="$PROJECT_DIR$/src/ishant/dsa/memory/MemoryManagement.java" />
+        <option value="$PROJECT_DIR$/src/ishant/dsa/memory/Vishwas.java" />
+        <option value="$PROJECT_DIR$/src/ishant/dsa/learning/Solution.java" />
+        <option value="$PROJECT_DIR$/src/ishant/dsa/learning/IshantUtils.java" />
+        <option value="$PROJECT_DIR$/src/ishant/dsa/assisgnment/TrappingRainWater.java" />
+        <option value="$PROJECT_DIR$/src/ishant/dsa/assisgnment/MedianInTwoShortedArrays.java" />
+        <option value="$PROJECT_DIR$/src/ishant/dsa/string/CountChar.java" />
+        <option value="$PROJECT_DIR$/src/ishant/dsa/string/SplitArray.java" />
+        <option value="$PROJECT_DIR$/src/ishant/dsa/string/StringManupulation.java" />
+        <option value="$PROJECT_DIR$/src/ishant/dsa/string/StringManipulation.java" />
+        <option value="$PROJECT_DIR$/src/ishant/dsa/string/pattern/pattern1.java" />
+        <option value="$PROJECT_DIR$/src/ishant/dsa/Main.java" />
+        <option value="$PROJECT_DIR$/src/ishant/dsa/string/MainClass.java" />
+        <option value="$PROJECT_DIR$/src/ishant/dsa/array/learn/CreateArrayDivisibleByTwo.java" />
+        <option value="$PROJECT_DIR$/src/ishant/dsa/array/learn/Sort.java" />
+        <option value="$PROJECT_DIR$/src/ishant/dsa/array/learn/CreateArrayDivisible.java" />
+        <option value="$PROJECT_DIR$/src/ishant/dsa/array/learn/Array.java" />
+        <option value="$PROJECT_DIR$/src/ishant/dsa/array/learn/findMaximum.java" />
+        <option value="$PROJECT_DIR$/src/ishant/dsa/array2d/Creation.java" />
+        <option value="$PROJECT_DIR$/src/ishant/dsa/array2d/BinarySearch2dArray.java" />
+        <option value="$PROJECT_DIR$/src/ishant/dsa/array2d/Sorting2dArray.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-246" />
+    <option name="y" value="135" />
+    <option name="width" value="1440" />
+    <option name="height" value="780" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="dsaOnline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dsaOnline" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dsaOnline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dsaOnline" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dsaOnline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dsaOnline" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ishant" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dsaOnline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dsaOnline" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ishant" type="462c0819:PsiDirectoryNode" />
+              <item name="dsa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dsaOnline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dsaOnline" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ishant" type="462c0819:PsiDirectoryNode" />
+              <item name="dsa" type="462c0819:PsiDirectoryNode" />
+              <item name="array2d" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dsaOnline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ishant" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\learning\DSA\src\ishant" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Sorting2dArray">
+    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ishant.dsa.array.learn.Array" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ishant.dsa.array.learn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArraySmax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ishant.dsa.assisgnment.ArraySmax" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ishant.dsa.assisgnment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Creation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ishant.dsa.array2d.Creation" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ishant.dsa.array2d.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sorting2dArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ishant.dsa.array2d.Sorting2dArray" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ishant.dsa.array2d.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pattern1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ishant.dsa.string.pattern.pattern1" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ishant.dsa.string.pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Sorting2dArray" />
+        <item itemvalue="Application.Creation" />
+        <item itemvalue="Application.Array" />
+        <item itemvalue="Application.ArraySmax" />
+        <item itemvalue="Application.pattern1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="848a5268-02e2-4ff6-bfe3-c0bc9be55c2f" name="Default Changelist" comment="" />
+      <created>1648118325499</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648118325499</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1048" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1968" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33005464" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32896176" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32896176" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32896176" />
+      <window_info anchor="bottom" id="Flutter Performance" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Flutter Inspector" order="8" sideWeight="0.49945354" weight="0.3296" />
+      <window_info anchor="right" id="Flutter Outline" order="9" />
+      <window_info anchor="right" id="leetcode" order="10" sideWeight="0.50054646" side_tool="true" weight="0.3296" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.136" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32896176" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32896176" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32896176" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32896176" />
+      <window_info anchor="bottom" id="Flutter Performance" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Flutter Inspector" order="8" sideWeight="0.49945354" weight="0.3296" />
+      <window_info anchor="right" id="Flutter Outline" order="9" />
+      <window_info anchor="right" id="leetcode" order="10" sideWeight="0.50054646" side_tool="true" weight="0.3296" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ishant/dsa/string/pattern/Pattern.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ishant/dsa/string/StringManipulation.java</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ishant/dsa/string/StringManipulation.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ishant/dsa/string/StringManipulation.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/ishant/Ishant.kt" />
+    <entry file="file://$PROJECT_DIR$/src/ishant/jai.kt" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[1]Two Sum.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[189]Rotate Array.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[50]Pow(x, n).java" />
+    <entry file="file://$PROJECT_DIR$/src/ishant/Components.kt" />
+    <entry file="file://$PROJECT_DIR$/src/ishant/part1/Recursion.java" />
+    <entry file="file://$PROJECT_DIR$/DSA.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ishant/dsa/array/pattren/pattren1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_271/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="51" column="19" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ishant/dsa/memory/Vishwas.java" />
+    <entry file="file://$PROJECT_DIR$/src/ishant/dsa/memory/MemoryManagement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ishant/dsa/integerQuestion/AddTwoBinary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="36" column="20" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ishant/dsa/learning/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ishant/dsa/assisgnment/MedianInTwoShortedArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1404">
+          <caret line="52" column="17" selection-start-line="51" selection-start-column="12" selection-end-line="57" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ishant/dsa/assisgnment/TrappingRainWater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <element signature="method#trap#0;class#TrappingRainWater#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ishant/dsa/linklist/learning/LearnLinkList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ishant/dsa/learning/IshantUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_271/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="2866" column="18" selection-start-line="2866" selection-start-column="18" selection-end-line="2866" selection-end-column="18" />
+          <folding>
+            <element signature="e#22786#22787#0" expanded="true" />
+            <element signature="e#22821#22822#0" expanded="true" />
+            <element signature="e#104675#104676#0" expanded="true" />
+            <element signature="e#104730#104731#0" expanded="true" />
+            <element signature="e#121727#121728#0" expanded="true" />
+            <element signature="e#121769#121770#0" expanded="true" />
+            <element signature="e#123115#123116#0" expanded="true" />
+            <element signature="e#123156#123157#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ishant/dsa/string/SplitArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ishant/dsa/string/StringManipulation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ishant/dsa/string/imp/InterleavingString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1377">
+          <caret line="51" column="5" lean-forward="true" selection-start-line="25" selection-start-column="6" selection-end-line="51" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ishant/dsa/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ishant/dsa/string/MainClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ishant/dsa/string/StringPart1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ishant/dsa/string/StringInterviewPart1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ishant/dsa/string/StringFunctions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ishant/dsa/string/pattern/Pattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ishant/dsa/string/pattern/pattern1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ishant/dsa/string/CountChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="9" column="55" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_271/jre/lib/ext/nashorn.jar!/jdk/nashorn/internal/objects/Global.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9897">
+          <caret line="617" column="35" selection-start-line="617" selection-start-column="35" selection-end-line="617" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ishant/dsa/assisgnment/ArraySmax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ishant/dsa/array/learn/CreateArrayDivisible.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ishant/dsa/array/learn/Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="31" />
+          <folding>
+            <element signature="method#sortTheArray#0;class#Sort#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ishant/dsa/array/learn/findMaximum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_271/src.zip!/java/util/DualPivotQuicksort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1074">
+          <caret line="163" column="39" selection-start-line="121" selection-start-column="5" selection-end-line="163" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_271/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="384" column="23" selection-start-line="384" selection-start-column="23" selection-end-line="384" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ishant/dsa/array/learn/Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#insert#0;class#Array#0" />
+            <element signature="method#printDelta#0;class#Array#0" />
+            <element signature="method#insert#1;class#Array#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ishant/dsa/array2d/Creation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ishant/dsa/array2d/BinarySearch2dArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ishant/dsa/array2d/Sorting2dArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="45" column="58" selection-start-line="45" selection-start-column="58" selection-end-line="45" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>DSA</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

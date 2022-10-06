@@ -6,6 +6,7 @@ public class ArraySmax {
 
         int max=a[0];
         int smax=a[0];
+
         for(int i=0;i<a.length;i++){
 
             if(max<=a[i]){
